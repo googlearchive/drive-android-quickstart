@@ -1,3 +1,6 @@
+#  **This repo has been moved to [android-samples](https://github.com/gsuitedevs/android-samples/tree/master/drive/quickstart).**
+---
+
 # Google Drive Android Quickstart
 
 This application provides a
